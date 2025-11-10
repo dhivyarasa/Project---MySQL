@@ -1,2 +1,2 @@
 # Project---MySQL
-Analyzing Data Science 
+Analyzing Salaries for different roles 
